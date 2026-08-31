@@ -1,0 +1,6 @@
+{
+  "name": "Hifza Batool | Birthday Celebration",
+  "description": "A cinematic and elegant interactive birthday surprise experience for Hifza Batool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
